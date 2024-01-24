@@ -1,2 +1,2 @@
 from forwhat import a
-print('welcome')
+print('first test')
